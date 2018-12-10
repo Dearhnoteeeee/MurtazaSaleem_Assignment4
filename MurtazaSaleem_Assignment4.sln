@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MurtazaSaleem_Assignment4", "MurtazaSaleem_Assignment4\MurtazaSaleem_Assignment4.csproj", "{02D968F9-51D1-460E-B4BB-6DA089873726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceUnitTest.Tests", "InvoiceUnitTest.Tests\InvoiceUnitTest.Tests.csproj", "{0CFE5269-8086-4E97-8FD2-61E95310DFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D968F9-51D1-460E-B4BB-6DA089873726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D968F9-51D1-460E-B4BB-6DA089873726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D968F9-51D1-460E-B4BB-6DA089873726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D968F9-51D1-460E-B4BB-6DA089873726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFE5269-8086-4E97-8FD2-61E95310DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFE5269-8086-4E97-8FD2-61E95310DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFE5269-8086-4E97-8FD2-61E95310DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFE5269-8086-4E97-8FD2-61E95310DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF46CDB5-C11B-4669-AF30-6738C8BB7848}
+	EndGlobalSection
+EndGlobal
